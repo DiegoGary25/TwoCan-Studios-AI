@@ -1,0 +1,230 @@
+﻿{
+  "company": "TwoCan Studios",
+  "tagline": "Automatización inteligente para atención, reservas y operación",
+  "links": {
+    "primary": "https://wa.me/522217592335",
+    "whatsapp": "https://wa.me/522217592335"
+  },
+  "nav": [
+    { "id": "problema", "label": "Problema" },
+    { "id": "planes", "label": "Programas" },
+    { "id": "proceso", "label": "Proceso" },
+    { "id": "industrias", "label": "Industrias" },
+    { "id": "beneficios", "label": "Beneficios" }
+  ],
+  "hero": {
+    "eyebrow": "TwoCan Studios",
+    "title": "Automatización inteligente para atención, reservas y operación",
+    "subtitle": "Ayudamos a negocios a responder más rápido, convertir más oportunidades y operar con más orden.",
+    "points": [
+      "Atención más rápida y consistente",
+      "Más oportunidades que sí avanzan",
+      "Operación diaria más clara"
+    ],
+    "primaryCta": "Agendar llamada",
+    "secondaryCta": "Hablar por WhatsApp"
+  },
+  "problem": {
+    "eyebrow": "El problema",
+    "title": "Muchos negocios crecen antes de tener procesos claros",
+    "description": "Mensajes sin responder, leads que se enfrían, tareas operativas desordenadas y equipos resolviendo todo manualmente.",
+    "painPoints": [
+      "Respuestas tardías que enfrían oportunidades",
+      "Seguimiento irregular en reservas o ventas",
+      "Información repetida una y otra vez",
+      "Desorden entre atención y operación"
+    ],
+    "conclusion": "TwoCan Studios convierte ese caos en sistemas más claros, útiles y escalables."
+  },
+  "whatWeDo": {
+    "eyebrow": "Qué hacemos",
+    "title": "Diseñamos sistemas para responder, convertir y operar mejor",
+    "description": "No se trata de quitar lo humano del servicio. Se trata de que el negocio funcione con más claridad, velocidad y consistencia.",
+    "items": [
+      "responder más rápido",
+      "capturar mejor cada oportunidad",
+      "convertir más preguntas en reservas o ventas",
+      "ordenar leads, tareas y procesos internos",
+      "reducir carga manual del equipo",
+      "crear una base sólida para crecer"
+    ]
+  },
+  "plans": {
+    "eyebrow": "Programas",
+    "title": "Soluciones diseñadas para crecer con tu negocio",
+    "subtitle": "Cada programa organiza mejor tu atención comercial y operativa según el nivel actual de tu negocio.",
+    "items": [
+      {
+        "name": "Starter",
+        "summary": "Para responder más rápido y no perder mensajes.",
+        "idealFor": "Negocios pequeños o medianos que reciben preguntas frecuentes y quieren mejorar su primer contacto con clientes.",
+        "focus": [
+          "atención inicial automatizada",
+          "respuestas claras y consistentes",
+          "captura básica de datos",
+          "mejor organización del primer contacto"
+        ],
+        "includes": [
+          "atención en un canal principal",
+          "respuestas a preguntas frecuentes",
+          "mensajes en español e inglés",
+          "captura de nombre, fecha, personas o servicio",
+          "información clave del negocio",
+          "derivación al encargado cuando hace falta"
+        ],
+        "result": "Un negocio que responde más rápido, pierde menos mensajes y se ve más profesional desde el primer contacto."
+      },
+      {
+        "name": "Growth",
+        "summary": "Para convertir más preguntas en reservas o ventas.",
+        "idealFor": "Hostales, rentals, tours, escuelas, wellness businesses y cualquier operación que dependa de reservas, cotizaciones o seguimiento.",
+        "focus": [
+          "calificación de leads",
+          "flujo de reserva o venta",
+          "seguimiento automático",
+          "confirmaciones y recordatorios"
+        ],
+        "includes": [
+          "todo lo del programa Starter",
+          "captura más completa de datos",
+          "clasificación del tipo de cliente",
+          "seguimiento si no responden",
+          "confirmación de reserva o interés",
+          "mensajes previos al servicio",
+          "registro ordenado de leads"
+        ],
+        "result": "Más claridad comercial, menos leads fríos y más conversaciones que avanzan hacia una reserva o venta."
+      },
+      {
+        "name": "Pro",
+        "summary": "Para ordenar leads, seguimiento y operación interna.",
+        "idealFor": "Property managers, hoteles medianos, colivings, retreats, real estate, operadores turísticos y negocios con varios responsables internos.",
+        "focus": [
+          "estructura comercial más completa",
+          "seguimiento ordenado",
+          "procesos internos visibles",
+          "tareas y avisos mejor coordinados"
+        ],
+        "includes": [
+          "todo lo del programa Growth",
+          "clasificación avanzada de leads",
+          "asignación de casos al área correcta",
+          "automatización de tareas internas",
+          "avisos operativos",
+          "seguimiento postservicio",
+          "solicitud de reseñas",
+          "flujos por tipo de cliente o servicio"
+        ],
+        "result": "Un sistema más ordenado para vender, atender y operar, con menos improvisación y más control."
+      },
+      {
+        "name": "Premium",
+        "summary": "Para construir un sistema comercial completo.",
+        "idealFor": "Empresas con más volumen, proyectos nuevos, grupos con varias propiedades o negocios que quieren una base operativa y comercial más fuerte.",
+        "focus": [
+          "sistema integral",
+          "múltiples flujos",
+          "visión de crecimiento",
+          "estructura pensada para escalar"
+        ],
+        "includes": [
+          "todo lo del programa Pro",
+          "diseño más profundo de arquitectura comercial",
+          "automatizaciones por etapa del cliente",
+          "seguimiento largo",
+          "procesos replicables para nuevos proyectos",
+          "mejores métricas y estructura de crecimiento",
+          "optimización continua"
+        ],
+        "result": "Una base comercial y operativa lista para crecer, profesionalizarse y replicarse en nuevos proyectos."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "Un proceso claro de principio a fin",
+    "subtitle": "Cada etapa está diseñada para construir un sistema útil para la operación real.",
+    "steps": [
+      {
+        "name": "Diagnóstico",
+        "description": "Entendemos cómo entra el cliente, cómo responde el negocio y dónde se pierde tiempo o dinero."
+      },
+      {
+        "name": "Diseño",
+        "description": "Definimos flujos, mensajes, lógica y estructura según la operación real."
+      },
+      {
+        "name": "Implementación",
+        "description": "Configuramos el sistema, organizamos la información y conectamos los procesos necesarios."
+      },
+      {
+        "name": "Pruebas",
+        "description": "Revisamos cómo responde, dónde falla y qué se puede mejorar."
+      },
+      {
+        "name": "Optimización",
+        "description": "El sistema crece con el negocio y puede expandirse a más áreas o proyectos futuros."
+      }
+    ]
+  },
+  "industries": {
+    "eyebrow": "Industrias",
+    "title": "Ideal para negocios con atención y coordinación diaria",
+    "description": "Especialmente útil cuando la atención, las reservas y el seguimiento impactan directamente la experiencia del cliente y el ingreso.",
+    "items": [
+      "Hostales y hoteles",
+      "Vacation rentals y property managers",
+      "Tours, transportes y experiencias",
+      "Wellness, yoga y retreats",
+      "Real estate",
+      "Negocios con operación diaria por WhatsApp"
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Beneficios",
+    "title": "Lo que cambia cuando el sistema está bien diseñado",
+    "subtitle": "Más estructura comercial y operativa sin perder la cercanía en el servicio.",
+    "items": [
+      {
+        "title": "Menos carga manual",
+        "description": "El equipo deja de resolver todo desde cero en cada conversación."
+      },
+      {
+        "title": "Respuestas más rápidas",
+        "description": "El primer contacto se vuelve más ágil y profesional."
+      },
+      {
+        "title": "Seguimiento consistente",
+        "description": "Las oportunidades no se pierden por falta de continuidad."
+      },
+      {
+        "title": "Más orden interno",
+        "description": "Leads, tareas y procesos se coordinan con mayor claridad."
+      },
+      {
+        "title": "Base sólida para crecer",
+        "description": "La operación puede escalar con menos improvisación."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Siguiente paso",
+    "title": "Tu negocio no necesita más caos. Necesita un sistema mejor.",
+    "description": "Hablemos sobre qué tipo de automatización tendría más impacto en tu operación hoy.",
+    "points": [
+      "Revisamos tu flujo actual de atención",
+      "Identificamos dónde se están perdiendo oportunidades",
+      "Definimos el siguiente paso con mayor impacto"
+    ],
+    "primaryCta": "Agendar llamada",
+    "secondaryCta": "Escribir por WhatsApp"
+  },
+  "images": {
+    "hero": "/assets/hero.png",
+    "problem": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=1200&q=80",
+    "plans": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1200&q=80"
+  }
+}
+
+
+

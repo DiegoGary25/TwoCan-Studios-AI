@@ -1,5 +1,6 @@
 ﻿import { motion } from "framer-motion";
 import infoRaw from "../Info.txt?raw";
+import heroImage from "../assets/hero.png";
 
 type PlanItem = {
   name: string;
@@ -70,7 +71,15 @@ type Content = {
 const parseContent = (raw: string): Content => {
   try {
     const normalized = raw.replace(/^\uFEFF/, "").trim();
-    return JSON.parse(normalized) as Content;
+    const parsed = JSON.parse(normalized) as Content;
+
+    return {
+      ...parsed,
+      images: {
+        ...parsed.images,
+        hero: !parsed.images?.hero || parsed.images.hero.startsWith("/assets/") ? heroImage : parsed.images.hero,
+      },
+    };
   } catch {
     return {
       company: "TwoCan Studios",
@@ -128,7 +137,7 @@ const parseContent = (raw: string): Content => {
         secondaryCta: "Escribir por WhatsApp",
       },
       images: {
-        hero: "/assets/hero.png",
+        hero: heroImage,
       },
     };
   }
